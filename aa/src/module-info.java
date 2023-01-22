@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Muho
- *
- */
-module aa {
-}
